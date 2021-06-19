@@ -1,0 +1,8 @@
+name: ArchMiniwalls
+version: 1.0
+author: Arch
+main: me.arch.miniwalls.main
+commands:
+ start:
+ start2: 
+ a: 
